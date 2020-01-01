@@ -1,0 +1,5 @@
+jupyter
+numpy
+menpo
+opencv-python
+
