@@ -126,3 +126,9 @@ dmypy.json
 
 venv/
 
+
+# Exclude some directories
+movie/
+src/
+output/
+
