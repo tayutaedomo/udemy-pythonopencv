@@ -125,7 +125,7 @@ dmypy.json
 
 
 venv/
-
+.idea
 
 # Exclude some directories
 movie/
